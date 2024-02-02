@@ -1,4 +1,4 @@
-# PRODIGY_ML_01# PRODIGY_ML_01
+# PRODIGY_ML_01 - Linear Regression Model for House Price Prediction
 Implementing linear regression to predict house prices using Python, focusing on square footage, bedrooms, and bathrooms. Using NumPy and Scikit-learn for training, evaluation metrics like MSE will be applied. Clear documentation and potential future enhancements included.
 
 ## Data Analysis after Pre-Processing:
